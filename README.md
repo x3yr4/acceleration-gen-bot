@@ -24,9 +24,3 @@ This bot offers automated generation, account category handling, moderation comm
 
 ---
 
-## ⚙️ Setup Instructions Linux or Vps
-
-```bash
-git clone https://github.com/x3yr4/acceleration-gen-bot.git
-cd acceleration-gen-bot
-pip install -r requirements.txt
