@@ -13,10 +13,10 @@ Developed by acceleration.back, this fully open-source Discord bot is your all-i
 ✅ 🔔 Restock notifications (Coming Soon)
 
 📦 Free Source Code:
-🔗 Download: [Insert GitHub / Pastebin Link]
+🔗 Download: https://github.com/x3yr4/acceleration-gen-bot
 
 📣 Community:
-💬 Join the Support Server: [Discord Invite Link]
+💬 Join the Support Server: https://discord.gg/eTqg5vZz
 ⭐ Star the Repo & Comment if You Like the Bot!
 
 ⚠️ Disclaimer: This bot is intended for educational and administrative use only. Please respect Discord's Terms of Service when using automated bots.
