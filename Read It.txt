@@ -1,0 +1,23 @@
+🚀 Acceleration G3N – The Ultimate Free Discord Gen Bot (2025 Edition)
+Developed by acceleration.back, this fully open-source Discord bot is your all-in-one solution for automated generation, inventory control, and server management.
+
+💻 Built with Python + discord.py, it offers blazing-fast performance, modular command structure, and stunning logs with role-based access control.
+
+🔧 Features:
+✅ .gen – Auto-generate accounts with cooldown & role-check
+✅ .stock – Real-time stock display by category
+✅ .add & .delete – Add/remove stock in seconds
+✅ .kick, .ban, .timeout – Advanced moderation tools
+✅ 🌈 Colorful command logs with embed formatting
+✅ 🔐 Role-based command permissions
+✅ 🔔 Restock notifications (Coming Soon)
+
+📦 Free Source Code:
+🔗 Download: [Insert GitHub / Pastebin Link]
+
+📣 Community:
+💬 Join the Support Server: [Discord Invite Link]
+⭐ Star the Repo & Comment if You Like the Bot!
+
+⚠️ Disclaimer: This bot is intended for educational and administrative use only. Please respect Discord's Terms of Service when using automated bots.
+
