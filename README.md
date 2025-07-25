@@ -1,36 +1,32 @@
-# 🚀 Acceleration G3N – Free Discord Generator Bot
+# 🚀 Acceleration Gen Bot
 
-A powerful, open-source **Discord Gen Bot** built with Python and `discord.py`, featuring category-based account generation, admin tools, and beautiful embeds. Designed by **acceleration.back** to bring premium functionality to everyone – for free.
-
----
-
-## 🧩 Features
-
-✅ `.gen` – Generate account to user DM (1-hour cooldown)  
-✅ `.stock` – Display available & out-of-stock categories  
-✅ `.create`, `.delete` – Create or remove stock categories  
-✅ `.add` – Upload `.txt` account files  
-✅ `.set` – Configure server-specific keys (channels, roles, etc.)  
-✅ `.kick`, `.ban`, `.timeout` – Advanced moderation tools  
-✅ 🎨 Colorful embedded logs & UI  
-✅ 🔐 Role-based access for commands  
-✅ 🔔 Restock alerts (soon)  
+A powerful open-source **Discord Generator Bot** built with Python and `discord.py`.  
+This bot offers automated generation, account category handling, moderation commands, and beautiful logging.
 
 ---
 
-## 📸 Screenshot Preview
+## ✨ Features
 
-https://github.com/x3yr4/acceleration-gen-bot/blob/069baee71732f3b7c64a37b265712b82b4d468d0/Screenshot.jpg
+- `.gen <category>` – Sends account to user DM (1h cooldown)
+- `.stock` – Displays available & out-of-stock categories
+- `.add <category>` – Upload `.txt` files with accounts
+- `.delete <category>` – Delete a stock category
+- `.set <key> <value>` – Set channel/role configurations
+- `.kick`, `.ban`, `.timeout` – Admin/moderation tools
+- 🌈 Embed logs, role-based access, and restock-ready
+- 🔒 Clean, scalable, and 100% free to use
 
-## ⚙️ Command Guide
+---
+
+## 📸 Screenshot
+
+![Bot Preview](https://raw.githubusercontent.com/x3yr4/acceleration-gen-bot/069baee71732f3b7c64a37b265712b82b4d468d0/Screenshot.jpg)
+
+---
+
+## ⚙️ Setup Instructions Linux or Vps
 
 ```bash
-.stock <Usage>           # Displays available and out-of-stock categories  
-.gen <category> <Usage>  # Public command - Sends account to DM (1-hour cooldown)  
-.create <category> <Admin>     # Create a new stock file  
-.delete <category> <Admin>     # Delete a stock category  
-.add <category> (attach.txt) <Admin>   # Upload account list  
-.set <key> <value> <Admin>     # Set keys like vouch_channel, access_role, etc.  
-.kick @user <reason> <Admin>   # Kick a user with reason  
-.ban @user <reason> <Admin>    # Ban a user with reason  
-.timeout @user <duration> <reason> <Admin>  # Timeout a user (1h/1d/1w)
+git clone https://github.com/x3yr4/acceleration-gen-bot.git
+cd acceleration-gen-bot
+pip install -r requirements.txt
