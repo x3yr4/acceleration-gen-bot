@@ -20,7 +20,7 @@ A powerful, open-source **Discord Gen Bot** built with Python and `discord.py`, 
 
 ## 📸 Screenshot Preview
 
-![https://postimg.cc/5Yw6qcxd)
+https://postimg.cc/5Yw6qcxd
 
 ---
 
