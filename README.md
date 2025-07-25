@@ -21,7 +21,6 @@ A powerful, open-source **Discord Gen Bot** built with Python and `discord.py`, 
 ## 📸 Screenshot Preview
 
 https://github.com/x3yr4/acceleration-gen-bot/blob/069baee71732f3b7c64a37b265712b82b4d468d0/Screenshot.jpg
----
 
 ## ⚙️ Command Guide
 
